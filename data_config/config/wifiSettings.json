@@ -1,0 +1,11 @@
+{
+    "hostname": "esp32-b0a732810a30",
+    "priority_RSSI": true,
+    "wifi_networks": [
+        {
+            "ssid": "LIVE TIM_3614",
+            "password": "Ft52Ebce",
+            "static_ip_config": false
+        }
+    ]
+}

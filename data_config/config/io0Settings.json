@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "client_id": "esp32-b0a732810a30",
+    "i2c_address": 161,
+    "resource_key": 1,
+    "simulator_enabled": false,
+    "simulator_frequency": 1
+}

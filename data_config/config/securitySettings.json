@@ -1,0 +1,15 @@
+{
+    "jwt_secret": "784fc466-5c053861",
+    "users": [
+        {
+            "username": "admin",
+            "password": "admin",
+            "admin": true
+        },
+        {
+            "username": "guest",
+            "password": "guest",
+            "admin": false
+        }
+    ]
+}

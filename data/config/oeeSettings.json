@@ -1,0 +1,8 @@
+{
+    "enabled": true,
+    "client_id": "esp32-NEW_MAC",
+    "i2c_address": 160,
+    "resource_key": "NEW_RESOURCE_UKEY",
+    "simulator_enabled": false,
+    "simulator_frequency": 2
+}

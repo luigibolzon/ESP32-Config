@@ -1,0 +1,5 @@
+{
+    "mqtt_path": "smartiot/sensors/NEW_MAC",
+    "name": "sensors-NEW_MAC",
+    "unique_id": "sensors-NEW_MAC"
+}

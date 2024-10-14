@@ -1,0 +1,9 @@
+{
+    "enabled": true,
+    "uri": "mqtt://192.168.100.11:1883",
+    "username": "admin",
+    "password": "Ap@690#KptLmn8",
+    "client_id": "esp32-NEW_MAC",
+    "keep_alive": 120,
+    "clean_session": true
+}

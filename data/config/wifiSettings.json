@@ -1,0 +1,16 @@
+{
+    "hostname": "esp32-NEW_MAC",
+    "priority_RSSI": true,
+    "wifi_networks": [
+        {
+            "ssid": "JJP-40_2.4G",
+            "password": "Netedge,40",
+            "static_ip_config": true
+        }
+    ],
+    "local_ip": "NEW_IP",
+    "gateway_ip": "192.168.101.1",
+    "subnet_mask": "255.255.255.0",
+    "dns_ip_1": "192.168.101.1",
+    "dns_ip_2": "8.8.8.8"
+}

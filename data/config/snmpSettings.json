@@ -1,0 +1,8 @@
+{
+    "snmp_agent_enabled": true,
+    "snmp_agent_read_community": "zabbix.gtiit.com.br",
+    "snmp_agent_read_write_community": "zabbix.gtiit.com.br",
+    "snmp_agent_sys_contact": "user@email.com.br",
+    "snmp_agent_sys_name": "SmartIoT-JJP",
+    "snmp_agent_sys_location": "Machine-NEW_MAC"
+}

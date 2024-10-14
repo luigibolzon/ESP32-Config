@@ -1,0 +1,11 @@
+{
+    "provision_mode": 1,
+    "ssid": "SmartIoT-b0a732810a30",
+    "password": "smartiot",
+    "channel": 1,
+    "ssid_hidden": false,
+    "max_clients": 4,
+    "local_ip": "192.168.4.1",
+    "gateway_ip": "192.168.4.1",
+    "subnet_mask": "255.255.255.0"
+}
