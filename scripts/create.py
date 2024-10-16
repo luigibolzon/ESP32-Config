@@ -30,7 +30,7 @@ settings_flags = {
     "io2Settings": False,
     "tempSettings": False,
     "relaySettings": False,
-    "debug1" : True
+    "debug1" : False
 }
 
 # Definir o caminho da pasta
